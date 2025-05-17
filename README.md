@@ -26,7 +26,7 @@ A compact and functional Smart Parking System project using Arduino Uno, IR sens
 [📽️ Watch Video](working.mp4) *(click to view or download)*
 
 ## 🔗 Code
-You can find the complete Arduino code [here](https://github.com/vivekpatel-1962/Smart-Parking-System/blob/main/smart_parking_code.ino).
+You can find the complete Arduino code [here](https://github.com/vivekpatel-1962/Smart-Parking-System/blob/main/smart_parking_system.ino).
 
 ## 🔄 Working Principle
 
